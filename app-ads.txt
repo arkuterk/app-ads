@@ -1,1 +1,2 @@
 google.com, pub-3847786338363750, DIRECT, f03c47fec0942fa0
+# cache-control: refresh-v2
